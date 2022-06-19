@@ -11,7 +11,7 @@ Still a lot to do (and even more to learn), but hopefully it will be finished at
 
 Oh... and it will be Open Source! So you can use it for whatever and however you like. It will have all the fundementals as a base for your future game.
 
-🌱 I’m currently studying at the Eszterházy Chatolic Univerty. On my last year now. Lot of fun technologies, and new perspeticves.
+🌱 I’m currently studying at the Eszterházy Chatolic Univerty. On my last year now. Lots of fun technologies, and new perspectives.
 
 👯 I’m looking to collaborate on projects involving video games or any realted topic. I would love to learn more about desings and about the industry in general. 
 
