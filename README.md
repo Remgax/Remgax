@@ -1,6 +1,6 @@
 ### Hi there 👋 Greeting and Salutation! 
 
-Welcome to my Github page. 🖥️ Look around, you might find something useful. Also I have a [dedicated organization](https://github.com/EKKE-IK-M5APWK) for my shool projects.
+Welcome to my Github page. 🖥️ Look around, you might find something useful. Also I have a [dedicated organization](https://github.com/EKKE-IK-M5APWK) for my school projects.
 
 Here's some thing about me: 
 
