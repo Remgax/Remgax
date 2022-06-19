@@ -15,7 +15,7 @@ Oh... and it will be Open Source! So you can use it for whatever and however you
 
 👯 I’m looking to collaborate on projects involving video games or any realted topic. I would love to learn more about desings and about the industry in general. 
 
-🎮 I have a few hobbys that I love to share. I love to play video games (I think you already guessed it), mostly playing MMORPGs or RBGs. I love the socialy apsect and playing with other people. My all time favourite video games are: Mass Effect, World of Warcraft, Guild Wars 2, all the Star Wars Games. Diablo games, Baldurs Gate 3, Elite Dangerous and F1 games.
+🎮 I have a few hobbys that I love to share. I love to play video games (I think you already guessed it), mostly playing MMORPGs or RBGs. I love the socialy apsect and playing with other people. My all time favorite video games are: Mass Effect, World of Warcraft, Guild Wars 2, all the Star Wars Games. Diablo games, Baldurs Gate 3, Elite Dangerous and F1 games.
 
 I have a lot of tabeltop games at home, and also a lot of Dungeons and Dragons roleplaying books from Wizards of the Coast. You can't say no when it comes to Dragons and Dices. 🎲
 
