@@ -22,7 +22,7 @@ I have a lot of tabeltop games at home, and also a lot of Dungeons and Dragons r
 ⚡ Fun fact: What do tortoises do for fun?
 Tortoises like space to roam, places to hide, and objects to interact with. They enjoy basking in the warmth, digging in dirt to cool down, and some even enjoy playing with humans. 
 
-Just like me. 🤣
+I have two beautful greek tortoise. 🐢 Their personaltys are wild. 🤣 
 
 <!--
 **Remgax/Remgax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
