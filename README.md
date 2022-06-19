@@ -4,7 +4,7 @@ Welcome to my Github page. 🖥️ Look around, you might find something useful.
 
 Here's some thing about me: 
 
-🇭🇺 I live in Hungary, Budapest. 
+🇭🇺 I live in Hungary, Budapest. I was born in 1993. Currently live in Budapest, but I would love to live in the UK 🇬🇧 or America 🇺🇸.
 
 🔭 I’m currently working on my diploma. It will be a video game useing Unity. You can [check it out here.](https://github.com/EKKE-IK-M5APWK/World-of-Eronia)
 Still a lot to do, but hopefully it will be finished at the end of 2022. Oh... and it will be Open Source! So you can use it for whatever you like. 
