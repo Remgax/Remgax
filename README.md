@@ -19,7 +19,7 @@ Still, a lot to do (and even more to learn), but hopefully it will be finished a
 
 I have a lot of tabletop games at home and a lot of Dungeons and Dragons roleplaying books from Wizards of the Coast. You can't say no when it comes to Dragons and Dice. 🎲
 
-📫 How to reach me: You can use my [email address](mail:kormany.1993@gmail.com) or via Discord Remgax#8761.
+📫 How to reach me: You can use my [email address](mail:kormany.1993@gmail.com) or via Discord remgax.
 
 ⚡ Fun fact: What do tortoises do for fun?
 Tortoises like space to roam, places to hide, and objects to interact with. They enjoy basking in the warmth, digging in the dirt to cool down, and some even enjoy playing with humans. 
