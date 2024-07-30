@@ -1,6 +1,6 @@
 ### Hi there 👋 Greetings and Salutation! 
 
-Welcome to my GitHub page. 🖥️ Look around, you might find something useful. Also, I have a [dedicated organization](https://github.com/EKKE-IK-M5APWK) for my school projects.
+Welcome to my GitHub page. 🖥️ Look around, you might find something useful. Also, I have a [dedicated organization](https://github.com/EKKE-IK-M5APWK) for my old school projects.
 
 Here's something about me: 
 
@@ -8,16 +8,7 @@ Here's something about me:
 
 📚 I currently work as an Application Developer at National Széchényi Library. I mostly work on back-end development but also have tasks with database management, user support, and support for our integrated library software and systems. 
 
-🔭 I’m currently working on my degree in Computer Science. It will be a video game using Unity. You can [check it out here.](https://github.com/EKKE-IK-M5APWK/World-of-Eronia)
-Still, a lot to do (and even more to learn), but hopefully it will be finished at the end of 2024. 
-
-🎓 I’m currently studying at the Eszterházy Catholic University. In my last year now. Lots of fun technologies, and new perspectives.
-
 👯 I want to collaborate on projects involving video games or any related topic. I would love to learn more about designs and the industry in general. 
-
-🎮 I have a few hobbies that I love to share. I love to play video games (I think you already guessed it), mostly playing MMORPGs or RBGs. I love the social aspect and playing with other people. My all-time favourite video games are Mass Effect, World of Warcraft, Guild Wars 2, and all the Star Wars Games. Diablo games, Baldurs Gate 3, Elite Dangerous and F1 games.
-
-I have a lot of tabletop games at home and a lot of Dungeons and Dragons roleplaying books from Wizards of the Coast. You can't say no when it comes to Dragons and Dice. 🎲
 
 📫 How to reach me: You can use my [email address](mail:kormany.1993@gmail.com) or via Discord remgax.
 
