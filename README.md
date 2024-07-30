@@ -1,6 +1,6 @@
 ### Hi there 👋 Greetings and Salutation! 
 
-Welcome to my GitHub page. 🖥️ Look around, you might find something useful. Also, I have a [dedicated organization](https://github.com/EKKE-IK-M5APWK) for my old school projects.
+Welcome to my GitHub page. 🖥️ Look around, you might find something useful. Also, I have a [dedicated organization](https://github.com/EKKE-IK-M5APWK) for my old-school projects.
 
 Here's something about me: 
 
@@ -8,7 +8,7 @@ Here's something about me:
 
 📚 I currently work as an Application Developer at National Széchényi Library. I mostly work on back-end development but also have tasks with database management, user support, and support for our integrated library software and systems. 
 
-👯 I want to collaborate on projects involving video games or any related topic. I would love to learn more about designs and the industry in general. 
+👯 I want to collaborate on projects involving video games, web development or any related topic. I would love to learn more about designs and the industry in general. 
 
 📫 How to reach me: You can use my [email address](mail:kormany.1993@gmail.com) or via Discord remgax.
 
