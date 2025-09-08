@@ -6,7 +6,7 @@ Welcome to my GitHub! 🖥️ Feel free to explore my repositories and projects.
 
 ## About Me
 
-I’m a **Software Developer & DevOps Engineer** with **8+ years of experience** in backend development, automation, and infrastructure management. I specialise in **PHP (Laravel, Symfony), Bash, Docker, and SQL databases** (Oracle, PostgreSQL, MySQL), with strong experience in Linux server environments, CI/CD pipelines, and DevOps practices.
+I’m a **Software Developer & DevOps Engineer** with **8+ years of experience** in backend development, automation, and infrastructure management. I specialise in **PHP (Symfony), Bash, Docker, and SQL databases** (Oracle, PostgreSQL, MySQL), with strong experience in Linux server environments, CI/CD pipelines, and DevOps practices.
 
 I have worked primarily in **public sector and EU-funded projects**, delivering scalable, maintainable solutions, automating workflows, and supporting full lifecycle software delivery. I enjoy collaborating across cross-functional teams and contributing to long-term institutional IT operations.
 
