@@ -6,9 +6,9 @@ Welcome to my GitHub! 🖥️ Feel free to explore my repositories and projects.
 
 ## About Me
 
-I’m a **Software Developer & DevOps Engineer** with **8+ years of experience** in backend development, automation, and infrastructure management. I specialise in **PHP (Symfony), Bash, Docker, and SQL databases** (Oracle, PostgreSQL, MySQL), with strong experience in Linux server environments, CI/CD pipelines, and DevOps practices.
+I’m a **Software Developer, DevOps Engineer & IT Support Specialist** with **8+ years of experience** in backend development, automation, and IT operations. I specialise in **PHP (Symfony, Laravel), Bash, Docker, and SQL databases** (Oracle, PostgreSQL, MySQL), with strong expertise in Linux server environments, CI/CD pipelines, and workflow automation.
 
-I have worked primarily in **public sector and EU-funded projects**, delivering scalable, maintainable solutions, automating workflows, and supporting full lifecycle software delivery. I enjoy collaborating across cross-functional teams and contributing to long-term institutional IT operations.
+I have worked primarily on **public sector and EU-funded projects**, delivering scalable, maintainable solutions, modernizing legacy systems, automating processes, and supporting full lifecycle IT operations. I enjoy collaborating across cross-functional teams and bridging development, operations, and support functions.
 
 🌍 Based in **Budapest, Hungary**, I’m open to **remote work or relocation within the EU**.
 
@@ -17,16 +17,16 @@ I have worked primarily in **public sector and EU-funded projects**, delivering 
 ## Core Technologies & Skills
 
 💻 **Programming & Scripting:**  
-PHP (Laravel, Symfony), Bash / Shell scripting, JavaScript, C#
+PHP (Symfony, Laravel), Bash / Shell scripting, JavaScript, C#
 
 🗄 **Databases:**  
 Oracle SQL, PostgreSQL, MySQL / MariaDB
 
 ⚙️ **DevOps & Tools:**  
-Docker, Kubernetes, Git, GitHub Actions, Composer, CI/CD pipelines, ticketing systems, system administration tools
+Docker, Kubernetes, Git, GitHub Actions, CI/CD pipelines, system monitoring, automation tools, ticketing systems
 
 🖥 **Infrastructure & Servers:**  
-Linux (Ubuntu/Debian), NGINX, Apache, system monitoring & automation
+Linux (Ubuntu/Debian), NGINX, Apache, system administration, monitoring & alerting
 
 🌐 **Frontend / Integration:**  
 HTML, CSS, Twig, jQuery, REST APIs, CMS integration, metadata workflows, system design
@@ -37,19 +37,20 @@ HTML, CSS, Twig, jQuery, REST APIs, CMS integration, metadata workflows, system 
 
 **DevOps Engineer · Jan 2022 – Present**  
 *National Széchényi Library · Budapest, Hungary · Hybrid*  
-- Containerised and modernised legacy PHP applications (**Docker, NGINX**)  
-- Managed and optimised databases (**Oracle, MariaDB, MySQL**)  
+- Containerized and modernized legacy PHP applications (**Docker, NGINX**) into scalable solutions  
+- Managed and optimized databases (**Oracle, MariaDB, MySQL**) for performance and reliability  
 - Automated workflows and system tasks using **Bash/Shell scripting**  
-- Maintained **CI/CD pipelines**, **Git version control**, and **system administration tools**  
-- Handled IT support and task tracking via **ticketing systems**  
-- Implemented monitoring, alerting, and security best practices  
+- Maintained **CI/CD pipelines**, **Git version control**, and system administration tools  
+- Provided **L1–L3 IT support**, handling tickets, phone requests, and complex technical issues  
+- Implemented system monitoring, alerting, and security best practices  
 
 **Software Developer · Jul 2017 – Jan 2022**  
 *National Széchényi Library · Budapest, Hungary · Hybrid*  
-- Maintained and enhanced institutional library systems, including workflow automation and legacy PHP application modernisation  
+- Maintained and enhanced institutional library systems, modernizing legacy PHP applications  
 - Developed backend features using **PHP (Symfony)** and automated processes with **Bash/Shell scripting**  
-- Supported database operations (**Oracle/MySQL/PostgreSQL**) including batch updates and schema optimisation  
-- Managed issue tracking, task prioritisation, and collaboration using **Redmine** and **Git**  
+- Managed databases (**Oracle/MySQL/PostgreSQL**) including batch updates, schema optimization, and performance tuning  
+- Provided IT support across teams, managing tickets and issue resolution  
+- Coordinated development tasks via **Redmine** and **Git**, ensuring smooth collaboration and documentation  
 
 ---
 
@@ -87,21 +88,3 @@ HTML, CSS, Twig, jQuery, REST APIs, CMS integration, metadata workflows, system 
 
 ⚡ **Fun Fact:**  
 Tortoises enjoy basking in the sun, exploring, and interacting with their environment — some even enjoy playing with humans!
-
-
-<!--
-**Remgax/Remgax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
